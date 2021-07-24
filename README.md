@@ -1,13 +1,13 @@
-# decentralvote white paper
+# ✓ decentralvote white paper
 Repository for decentralvote white paper
 
 ## Contents
 
-[White paper](WHITEPAPER.md)
+⭐️ [White paper](WHITEPAPER.md)
 
-[Research](RESEARCH.md)
+📚 [Research](RESEARCH.md)
 
-[Contributing](CONTRIBUTING.md)
+🛠 [Contributing](CONTRIBUTING.md)
 
 ## Goals
 
