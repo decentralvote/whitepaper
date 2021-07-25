@@ -20,35 +20,39 @@ This document is used to store links and other material referenced in developing
   * Censorship and sanctions
     * Access for citizens of santioned nations (e.g. Iran)
     * Blockchain access
+    * VPNs, proxies, and other network-related mechanisms
 
 * Non-public office voting/polls
   * DAOs
   * Boards
   * NPOs
   * Referendums
+  * HOAs
 
-* In-person voting
-  * Post-pandemic issues and access
-  * Non-US research to focus on internaltional difficulties pre-pandemic
-  * Voter suppression/intimidation
-  * Polling place hours and locations
-
-* Mail voting
-  * Online registration and identity/membership verification
+* Voter participation
+  * In-person voting
+    * Post-pandemic issues and access
+    * Non-US research to focus on internaltional difficulties pre-pandemic
+    * Voter suppression/intimidation
+    * Polling place hours and locations
+  * Mail voting
+    * Online registration and identity/membership verification
 
 * Public opinion
   * Sentiment toward recent elections
     * Non-US elections and votes (i.e. Brexit)
-    * US elections (i.e. 2020 Presidential election)
+    * US elections (e.g. 2020 Presidential election)
   * Social media
+    * Influencers and major advertisers (i.e. celebrity promotions and hype, Elon Musk tweets)
     * Influence of algorithmic content
     * Misinformation and deception
+    * Censorship by social media platforms (e.g. Trump ban from Twitter/FB)
   * Sentiment toward blockchain and crypto currencies
     * Wen lambo hyper wealth culture
     * Speculation activities
     * Volatility
     * Policy positions
-    * Legal positions and precedence
+    * Legal positions and precedence  
 
 ## Material
 
